@@ -5,6 +5,7 @@
 2. Input is provided in input.txt file.
 3. Input format:
 
+```
 2  -> No. Of test cases
 1  -> Test case number 1
 No. of players for each team: 5
@@ -52,7 +53,7 @@ Bowler: P4
 1
 W
 W
-
+```
 
 5. Test cases are separed by newline.
 4. Output: 
